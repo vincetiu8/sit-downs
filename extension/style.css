@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #111111;
+}
+
+/* Set default font to Inter */
+body {
+  font-family: "Inter"; /* Use sans-serif as a fallback */
+}
